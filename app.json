@@ -13,7 +13,7 @@
       "package": "dev.godrizilla.covid19",
       "config": {
         "googleMaps": {
-          "apiKey": ""
+          "apiKey": "AIzaSyAuQb_c6UybhnHRDjKPtc7ltAeJtC9WarA"
         }
       },
       "versionCode": 1
