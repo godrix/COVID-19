@@ -18,6 +18,8 @@
 
 > Monitor de casos de coronavirus pelo mundo
 
+<img src='https://i.imgur.com/SUJuIXs.png'/>
+
 ### 🏠 [Homepage](https://github.com/godrix/COVID-19#readme)
 
 ### ✨ [Android](https://play.google.com/store/apps/details?id=dev.godrizilla.covid19)
