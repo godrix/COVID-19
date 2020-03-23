@@ -44,3 +44,11 @@ font-weight:bold;
 color: ${Colors.noticeText};
 `;
 
+export const Percent = styled.Text`
+
+font-size:18px;
+text-align:center;
+font-weight:bold;
+color: ${Colors.noticeText};
+`;
+

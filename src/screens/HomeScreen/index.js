@@ -88,12 +88,14 @@ export default function HomeScreen() {
       <Card title='Recuperados'
         lastUpdate={getlastUpdate}
         value={getRecovered.value}
+        valueTotal={getConfirmed.value}
         load={load}
         color='#27ae60'
       />
       <Card title='Óbitos'
         lastUpdate={getlastUpdate}
         value={getDeaths.value}
+        valueTotal={getConfirmed.value}
         load={load}
         color='#2d3436'
       />
