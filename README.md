@@ -22,7 +22,7 @@
 
 ### 🏠 [Homepage](https://github.com/godrix/COVID-19#readme)
 
-### ✨ [Android](https://play.google.com/store/apps/details?id=dev.godrizilla.covid19)
+### ✨ [Android](https://github.com/godrix/COVID-19/releases/tag/1.0.0)
 
 ## Install
 
