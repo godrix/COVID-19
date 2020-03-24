@@ -28,13 +28,10 @@ export default function HomeScreen() {
       const { countries } = responseCountry.data;
       const { confirmed, recovered, deaths, lastUpdate } = response.data
 
-      let filterCountries = []
-
-      for (var property in countries) {
-        filterCountries = [...filterCountries, { label: property, value: countries[property] }]
-
-      }
-
+      const filterCountries = countries.map(countrie=>{
+        return {label:countrie.name,value:countrie.iso2}
+      })
+   
       setContries(filterCountries)
       setConfirmed(confirmed)
       setRecovered(recovered)
